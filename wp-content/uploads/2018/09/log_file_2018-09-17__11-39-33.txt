@@ -1,0 +1,49 @@
+
+---Upload files---
+Redux file was not uploaded. Error: File is empty. Please upload something more substantial.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://themepalacedemo.com/selfgraphy
+Data file = /home/themepal/public_html/wp-content/uploads/sites/81/2018/09/a2z.wordpress.2018-09-17.xml
+Widget file = /home/themepal/public_html/wp-content/uploads/sites/81/2018/09/themepalacedemo.com-a2z-widgets.wie
+Customizer file = /home/themepal/public_html/wp-content/uploads/sites/81/2018/09/a2z-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+TP: Instagram - Instagram - Imported
+
+Footer Widget 1 : 
+
+Text - A2Z pro - Imported
+
+Footer Widget 2 : 
+
+Recent Posts - Recent Posts - Imported
+
+Footer Widget 3 : 
+
+Navigation Menu - Quick Links - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+

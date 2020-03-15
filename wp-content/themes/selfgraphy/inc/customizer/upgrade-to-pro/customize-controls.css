@@ -1,0 +1,23 @@
+#customize-controls .control-section-selfgraphy .accordion-section-title:hover,
+#customize-controls .control-section-selfgraphy .accordion-section-title:focus {
+	background-color: #1584ff;
+	color: #fff;
+}
+
+.control-section-selfgraphy .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+	background-color: #333;
+	color: #fff;
+}
+
+.rtl .control-section-selfgraphy .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+li#accordion-section-selfgraphy h3.accordion-section-title {
+    background-color: #1584ff;
+    color: #fff;
+}

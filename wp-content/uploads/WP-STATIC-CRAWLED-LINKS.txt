@@ -1,0 +1,4 @@
+/
+/about-me/
+/category/career/
+/category/career/page/1

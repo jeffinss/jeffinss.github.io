@@ -1,0 +1,65 @@
+
+---Downloaded files---
+The import files for: Selfgraphy Demo were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://jss.local
+Data file = C:\Users\Jeffin\Local Sites\jss\app\public/wp-content/uploads/2020/03/demo-content-import-file_2020-03-14__04-18-43.xml
+Widget file = C:\Users\Jeffin\Local Sites\jss\app\public/wp-content/uploads/2020/03/demo-widgets-import-file_2020-03-14__04-18-43.json
+Customizer file = C:\Users\Jeffin\Local Sites\jss\app\public/wp-content/uploads/2020/03/demo-customizer-import-file_2020-03-14__04-18-43.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Footer Widget 1 : 
+
+Text - Selfgraphy - Imported
+
+Footer Widget 2 : 
+
+Recent Posts - Recent Posts - Imported
+
+Footer Widget 3 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Widget 4 : 
+
+Text - Stay Connected - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
